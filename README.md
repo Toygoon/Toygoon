@@ -11,8 +11,9 @@
   <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.net&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=white"/></a>&nbsp
-  <br>
   <img src="https://img.shields.io/badge/Assembly-071D49?style=flat-squar&logoColor=white"/></a>&nbsp 
+  <br>
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
