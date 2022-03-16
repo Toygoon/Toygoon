@@ -28,6 +28,6 @@
 <h3 align="center"> 🧸 Contact 🧸 </h3>
 <p align="center">
   <a href="https://toygoon.com"><img src="https://img.shields.io/badge/Website-4285F4?style=flat-square&logo=googlechrome&logoColor=white&link=https://toygoon.com"/></a>&nbsp
-  <a href="mailto:iam@toygoon.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=iam@toygoon.com"/></a>
+  <a href="mailto:iam@toygoon.com"><img src="https://img.shields.io/badge/Mail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=iam@toygoon.com"/></a>
 </p>
 <br>
